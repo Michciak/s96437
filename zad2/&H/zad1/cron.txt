@@ -1,0 +1,1 @@
+15 9 1 * * root /home/s96437/kolokwium/zad1/rozw.txt > /home/s96437/kolokwium/zad1/notatki.txt

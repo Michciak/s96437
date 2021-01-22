@@ -1,0 +1,11 @@
+poznane mi edytory tekstu:
+mcedit - edytor, ktorego uzywalismy na zajeciach, sposob obslugi odbywa sie poprzez uzycie
+	klawiszy funkcyjnych f1,f2,... . Podiada on wiekszosc funkcji powszechnie uzywanych
+	 w edytorach tekastu oraz ma rozszerzalny limit wielkosci pliku. 
+nano - jeden z najpopularniejszych wewnetrznych edytorow tekstowych. Inaczej niz w mcedicie
+	poslugujemy sie tutaj kombinacjami klawiszy z ctrl. Dla mnie jeden z najbardziej 
+	przejrzystych edytorow tekstu.
+vi - edytor modalny, jego nazwa pochodzi od wyrazu visual. Jego zastosowanie bylo znikome, gdyz 
+	zastapily go stworzone na jago bazie kolny takie jak np. vim.
+vim - edytor moadalny stworzony na bazie vi. Posiada on 3 typy pracy.
+pico - edytor tekstu oparty na Pine - programie do osbslugi maili.
